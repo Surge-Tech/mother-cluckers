@@ -1,0 +1,5 @@
+Mother Cluckers Controls
+A – Walk left
+D – Walk Right
+<space> - Jump
+R – Respawn
